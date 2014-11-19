@@ -1,0 +1,9 @@
+Dieser Text enthält Umlaute.
+Er dient im Rahmen der Übung "Ersetzen von Umlauten" als Ausgangsdatei.
+Darum sind hier auch noch ein paar Umlaute drin:
+äöü
+ä.ö.ü.
+Ä.Ö.Ü.
+ß
+
+... und Schluß  

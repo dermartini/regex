@@ -1,0 +1,9 @@
+Dieser Text enthaelt Umlaute.
+Er dient im Rahmen der Uebung "Ersetzen von Umlauten" als Ausgangsdatei.
+Darum sind hier auch noch ein paar Umlaute drin:
+aeoeue
+ae.oe.ue.
+Ae.Oe.Ue.
+ss
+
+... und Schluss  
